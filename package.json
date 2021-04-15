@@ -7,7 +7,15 @@
   "engines": {
     "vscode": "^1.55.0"
   },
-  "icon": "icons/blue-compliment-vsc-icon,png",
+  "icon": "https://raw.githubusercontent.com/romandesigns/vscode-theme-blue-compliment/main/icons/blue-compliment-vsc-icon.png",
+  "author": {
+    "name": "Roman F",
+    "email": "romandesigns.us@gmail.com"
+  },
+  "repository": {
+    "url": "https://github.com/romandesigns/vscode-theme-blue-compliment",
+    "type": "git"
+  },
   "categories": [
     "Themes"
   ],
