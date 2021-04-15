@@ -1,5 +1,7 @@
 # README
 
+The colors combination has been uniquely planned to keep you energized, motivated but most importantly creative
+
 ## This is the README for your extension "blue-compliment"
 
 You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
