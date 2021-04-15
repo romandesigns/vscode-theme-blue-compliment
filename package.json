@@ -1,0 +1,21 @@
+{
+    "name": "blue-compliment",
+    "displayName": "blue compliment",
+    "description": "Theme based on the Code blue theme. It uses a combination of warm colors to compliment the cool tones of the UI.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Blue Compliment",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Blue Compliment-color-theme.json"
+            }
+        ]
+    }
+}
