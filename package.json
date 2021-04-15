@@ -1,21 +1,23 @@
 {
-    "name": "blue-compliment",
-    "displayName": "blue compliment",
-    "description": "Theme based on the Code blue theme. It uses a combination of warm colors to compliment the cool tones of the UI.",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.55.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Blue Compliment",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Blue Compliment-color-theme.json"
-            }
-        ]
-    }
+  "name": "blue-compliment",
+  "displayName": "Blue Compliment",
+  "description": "The colors combination has been uniquely planned to keep you energized, motivated but most importantly creative",
+  "publisher": "creativecoder87",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.55.0"
+  },
+  "icon": "icons/blue-compliment-vsc-icon,png",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Blue Compliment",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Blue Compliment-color-theme.json"
+      }
+    ]
+  }
 }
